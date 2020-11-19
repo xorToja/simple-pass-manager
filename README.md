@@ -14,9 +14,9 @@ You can simply achive that by visiting: https://www.python.org/
 
 Using pip (installed with python by default) you need to download one module manualy, because it's not not defaultly installed with others.
 
-'''sh
+```sh
 pip install colorama
-'''
+```
 
 ## How To Run Program
 
